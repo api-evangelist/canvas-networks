@@ -1,22 +1,67 @@
 aid: canvas-networks
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/canvas-networks.png
 name: Canvas Networks
-description: Canvas Networks is a company surfaced as a portfolio company of a16z and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Canvas Networks was a consumer social media and image-sharing startup founded
+  by Christopher "moot" Poole (the founder of 4chan). Launched in private beta
+  in early 2011 at canv.as, the platform let users share, annotate, and remix
+  images on moderated, topic-based boards, positioning itself as a friendlier,
+  more creative take on imageboard culture. It raised roughly $3.6M from
+  Andreessen Horowitz (a16z), Union Square Ventures, SV Angel, Lerer Ventures,
+  Founder Collective, Ron Conway, and Joshua Schachter, and later pivoted to the
+  mobile drawing app DrawQuest. The company shut down on January 21, 2014, citing
+  its inability to build a sustainable business model. It was surfaced as an a16z
+  portfolio company and added to the API Evangelist network as a stub; enrichment
+  confirms it is defunct with no surviving developer, API, or documentation surface.
 url: https://raw.githubusercontent.com/api-evangelist/canvas-networks/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - a16z
+- Union Square Ventures
+- SV Angel
+- Lerer Ventures
+- Founder Collective
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: defunct
+x-shutdown-date: '2014-01-21'
+x-enrichment-note: >-
+  Enriched 2026-07-18. Company is defunct (shut down 2014-01-21). Original domain
+  canv.as no longer resolves (no DNS); canvasnetworks.com now hosts an unrelated
+  Los Angeles IT-support firm ("Canvas IT"), not the original startup. No API,
+  developer portal, documentation, packages, or other real artifact surface
+  exists to search, generate, or derive from. Identity/hygiene pass only.
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Social Media
+- Image Sharing
+- Content Remixing
+- Consumer
+- Startup
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
