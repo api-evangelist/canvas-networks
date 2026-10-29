@@ -64,12 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Canvas Networks was a consumer social media and image-sharing startup founded by Christopher "moot" Poole (founder of 4chan). Launched in private beta in early 2011 at canv.as, it let users share, annotate, and remix images on moderated, topic-based boards. It later pivoted to the mobile drawing app DrawQuest and shut down on January 21, 2014.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-**Status:** Defunct (shut down 2014-01-21).
+Canvas Networks was a consumer social media and image-sharing startup founded by Christopher "moot" Poole (the founder of 4chan). Launched in private beta in early 2011 at canv.as, the platform let users share, annotate, and remix images on moderated, topic-based boards, positioning itself as a friendlier, more creative take on imageboard culture. It raised roughly $3.6M from Andreessen Horowitz (a16z), Union Square Ventures, SV Angel, Lerer Ventures, Founder Collective, Ron Conway, and Joshua Schachter, and later pivoted to the mobile drawing app DrawQuest. The company shut down on January 21, 2014, citing its inability to build a sustainable business model. It was surfaced as an a16z portfolio company and added to the API Evangelist network as a stub; enrichment confirms it is defunct with no surviving developer, API, or documentation surface.
 
-Backed by: a16z, Union Square Ventures, SV Angel, Lerer Ventures, Founder Collective.
+**Areas:** Company · Social Media · Image Sharing · Content Remixing · Consumer · Defunct
 
-## Enrichment note
+## Canvas Networks on APIs.io (historical record)
 
-Enriched 2026-07-18. Original domain `canv.as` no longer resolves (no DNS). `canvasnetworks.com` now hosts an unrelated Los Angeles IT-support firm ("Canvas IT"), not the original startup. No API, developer portal, documentation, packages, or other real artifact surface exists to search, generate, or derive from — this repo carries an identity profile only.
+Everything profiled for Canvas Networks is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/canvas-networks/](https://apis.io/providers/canvas-networks/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Canvas Networks: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/canvas-networks/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
